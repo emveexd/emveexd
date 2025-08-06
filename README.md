@@ -1,11 +1,11 @@
 # Hello, I'm Matthew
 <a href="https://www.linkedin.com/in/matthew-vongchanh/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-While working in the semiconductor field, where I worked on-site for one of many customers "Western Digital", I witnessed firsthand the initial impacts cyber attack on March 26th, 2023 hand on the company's infrastructure. 
+While working in the semiconductor field, where I worked on-site for one of many customers, "Western Digital", I witnessed firsthand the initial impacts cyber attack on March 26th, 2023, had on the company's infrastructure. 
 
 
 ## Objective:
-“My journey in the semiconductor field has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to join a Security Operations Center as a Cyber Risk Analyst”
+“My journey in the semiconductor field has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to join a Security Operations Center as a Cyber Risk Analyst.”
 
 ## Skills:
 
