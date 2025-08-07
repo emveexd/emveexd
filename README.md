@@ -11,7 +11,7 @@ While working in the semiconductor field, where I worked on-site for one of many
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Netowrk Forenscis         | <a href="https://github.com/emveexd/Detection-Lab/tree/main">Detection Lab</a>|
+| Netowrk Forenscis         | <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>|
 | Network Traffic Monitoring and Attack Detection | In Process |
 | Incident Response Planning and Execution      | In Process |
 | Scripting and Automation for Threat Mitigation | In process|
@@ -51,6 +51,6 @@ While working in the semiconductor field, where I worked on-site for one of many
 </div>
 
 ## Projects:
-- <a href="https://github.com/emveexd/Detection-Lab/tree/main">Detection Lab</a>
+- <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>
 - SOC Automation Project
   
