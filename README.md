@@ -12,7 +12,7 @@ While working in the semiconductor field, where I worked on-site for one of many
 | Skill                                             | Associated Project         |
 |---------------------------------------------------|----------------------------|
 | Netowrk Forenscis                                 | <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>|
-| Netowrk Forenscis                                 | Tomcat Takeover |
+| Netowrk Forenscis                                 | Tomcat Takeover Lab |
 | Network Traffic Monitoring and Attack Detection   | <a href="https://github.com/emveexd/Detection-Lab">Detection Lab</a>|
 | Incident Response Planning and Execution          | In Process |
 | Scripting and Automation for Threat Mitigation    | In process|
@@ -50,7 +50,7 @@ While working in the semiconductor field, where I worked on-site for one of many
 
 ## Projects:
 - <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>
-- Tomcat Takeover 
+- Tomcat Takeover Lab
 - <a href="https://github.com/emveexd/Detection-Lab">Detection Lab</a>
 - SOC Automation Project
   
