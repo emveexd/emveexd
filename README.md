@@ -52,5 +52,6 @@ While working in the semiconductor field, where I worked on-site for one of many
 - <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>
 - <a href="https://github.com/emveexd/Tomcat-Takeover-Lab">Tomcat Takeover Lab</a>
 - <a href="https://github.com/emveexd/OSKI-Lab">Oski Lab</a>
-- SOC Automation Project
+- SOC Automation
+- Home Lab
   
