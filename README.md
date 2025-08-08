@@ -51,7 +51,16 @@ While working in the semiconductor field, where I worked on-site for one of many
 ## Projects:
 - <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>
 - <a href="https://github.com/emveexd/Tomcat-Takeover-Lab">Tomcat Takeover Lab</a>
+- Hawkeye Lab
+- PSExec Hunt Lab
 - <a href="https://github.com/emveexd/OSKI-Lab">Oski Lab</a>
-- SOC Automation
+- Red Stealer Lab
+- Grab The Phiser Lab
+- Get PDF Lab
+- Maldoc 101 Lab
+- Hammered Lab
+- QRadar 101 Lab
+- Sysinternals Lab
+- SOC Automation 
 - Home Lab
   
