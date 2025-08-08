@@ -49,7 +49,8 @@ While working in the semiconductor field, where I worked on-site for one of many
 </div>
 
 ## Projects:
-- <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>
+- Home Lab
+- <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>      
 - <a href="https://github.com/emveexd/Tomcat-Takeover-Lab">Tomcat Takeover Lab</a>
 - Hawkeye Lab
 - PSExec Hunt Lab
@@ -62,5 +63,4 @@ While working in the semiconductor field, where I worked on-site for one of many
 - QRadar 101 Lab
 - Sysinternals Lab
 - SOC Automation 
-- Home Lab
   
