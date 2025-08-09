@@ -62,5 +62,5 @@ While working in the semiconductor field, where I worked on-site for one of many
 - Hammered Lab
 - QRadar 101 Lab
 - Sysinternals Lab
-- SOC Automation 
+
   
