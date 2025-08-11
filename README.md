@@ -12,9 +12,9 @@ While working in the semiconductor field, where I worked on-site for one of many
 | Skill                                             | Associated Project         |
 |---------------------------------------------------|----------------------------|
 | Netowrk Forenscis                                 | <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>, <a href="https://github.com/emveexd/Tomcat-Takeover-Lab">Tomcat Takeover Lab</a>|
-| Threat Intel                                      | <a href="https://github.com/emveexd/OSKI-Lab">Oski Lab</a>|
+| Threat Intelligence                               | <a href="https://github.com/emveexd/OSKI-Lab">Oski Lab</a>|
+| Incident Response Planning and Execution          | Gophish Campaign |
 | Network Traffic Monitoring and Attack Detection   | In Progress |
-| Incident Response Planning and Execution          | In Progress |
 | Scripting and Automation for Threat Mitigation    | In Progress |
 
 ## Tools:
