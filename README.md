@@ -49,18 +49,21 @@ While working in the semiconductor field, where I worked on-site for one of many
 </div>
 
 ## Projects:
-- Home Lab
-- <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>      
-- <a href="https://github.com/emveexd/Tomcat-Takeover-Lab">Tomcat Takeover Lab</a>
-- Hawkeye Lab
-- PSExec Hunt Lab
-- <a href="https://github.com/emveexd/OSKI-Lab">Oski Lab</a>
-- Red Stealer Lab
-- Grab The Phiser Lab
-- Get PDF Lab
-- Maldoc 101 Lab
-- Hammered Lab
-- QRadar 101 Lab
-- Sysinternals Lab
+- Personal Projects
+    - Home Lab (VMs, Containerization, Pentesting, etc)
+    - <a href="https://github.com/emveexd/Gophish-Campaign-Simulation">Gophish Campaign Simulation</a>
+- <a href="https://cyberdefenders.org/">Cyber Defenders Labs</a>
+    1. <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>
+    2. <a href="https://github.com/emveexd/Tomcat-Takeover-Lab">Tomcat Takeover Lab</a>
+    3. Hawkeye Lab
+    4. PSExec Hunt Lab
+    5. <a href="https://github.com/emveexd/OSKI-Lab">Oski Lab</a>
+    6. Red Stealer Lab
+    7. Grab The Phiser Lab
+    8. Get PDF Lab
+    9. Maldoc 101 Lab
+    10. Hammered Lab
+    11. QRadar 101 Lab
+    12. Sysinternals Lab
 
   
