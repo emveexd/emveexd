@@ -21,7 +21,7 @@ While working in the semiconductor field, where I worked on-site for one of many
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <a href="https://www.wireshark.org/docs/wsug_html/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-TCPdump-228B22?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDBMNC41IDMuNzVMMyAxMi43NUwxMiAyNCwyMSAxMi43NUwxOS41IDMuNzVMMTIgMHpNMTIgMy40N0wxNy44OCAxMi40OEwxMiAxOS41Mkw2LjEyIDEyLjQ4TDEyIDMuNDdaTTExLjI1IDYuNzVIMTIuNzVWMTAuNUgxMS4yNVY2Ljc1Wk0xMS4yNSAxMi43NUgxMi43NVYxNi41SDE1VjExLjI1SDE2LjVWMTEuMjVIMTUuNzVWMTAuNUgxMi43NVYxMi43NUgxMS4yNVoiLz48L3N2Zz4=&logoColor=white" />  
     <img src="https://img.shields.io/badge/-Barracuda%20Email%20Protection-0056B3?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDBMNC41IDMuNzVMMyAxMi43NUwxMiAyNCwyMSAxMi43NUwxOS41IDMuNzVMMTIgMHpNMTIgMy40N0wxNy44OCAxMi40OEwxMiAxOS41Mkw2LjEyIDEyLjQ4TDEyIDMuNDdaTTExLjI1IDYuNzVIMTIuNzVWMTAuNUgxMS4yNVY2Ljc1Wk0xMS4yNSAxMi43NUgxMi43NVYxNi41SDE1VjExLjI1SDE2LjVWMTEuMjVIMTUuNzVWMTAuNUgxMi43NVYxMi43NUgxMS4yNVoiLz48L3N2Zz4=&logoColor=white" />
@@ -67,6 +67,8 @@ While working in the semiconductor field, where I worked on-site for one of many
     12. Sysinternals Lab
 
 ## External Reference Links:
-    - 
+- <a href="https://docs.rapid7.com/insightidr/apt-groups/#apt1">ATP Groups (Rapid7)</a>
+- <a href="https://attack.mitre.org/">Mitre Attack Reference</a>
+-
 
   
