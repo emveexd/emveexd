@@ -69,9 +69,13 @@ While working in the semiconductor field, where I worked on-site for one of many
     12. Sysinternals Lab
 
 ## External Reference Links:
-- <a href="https://docs.rapid7.com/insightidr/apt-groups/#apt1">ATP Groups (Rapid7)</a>
-- <a href="https://attack.mitre.org/">Mitre Attack Reference</a>
-- <a href="https://www.cvedetails.com/">CVE Details</a>
-- <a href="https://www.cyberthreatalliance.org/">Cyber Threat Alliance</a>
-- <a href="https://osintframework.com/">OSINT Framework Reference</a>
+- **Reference**    
+    - <a href="https://docs.rapid7.com/insightidr/apt-groups/#apt1">ATP Groups (Rapid7)</a>
+    - <a href="https://attack.mitre.org/">Mitre Attack Reference</a>
+    - <a href="https://www.cvedetails.com/">CVE Details</a>
+    - <a href="https://www.cyberthreatalliance.org/">Cyber Threat Alliance</a>
+    - <a href="https://osintframework.com/">OSINT Framework Reference</a>
+    - <a href="https://www.virustotal.com/gui/home/upload">File Analysis (Virustotal)</a>
+- **Community Links**
+    - <a href="https://infosec-conferences.com/"> Cybersecurity Conferences</a>
   
