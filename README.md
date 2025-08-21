@@ -77,6 +77,7 @@ While working in the semiconductor field, where I worked on-site for one of many
     - <a href="https://osintframework.com/">OSINT Framework Reference</a>
     - <a href="https://www.virustotal.com/gui/home/upload">File Analysis (Virustotal)</a>
     - <a href="https://www.tripwire.com/">Tripwire Monitor</a>
+    - <a href="https://www.cisecurity.org/">Center for Internet Security</a>
 - **Community Links**
     - <a href="https://infosec-conferences.com/"> Cybersecurity Conferences</a>
   
