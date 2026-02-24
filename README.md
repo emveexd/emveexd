@@ -79,6 +79,7 @@ While working in the semiconductor field, where I worked on-site for one of many
     - <a href="https://www.tripwire.com/">Tripwire Monitor</a>
     - <a href="https://www.cisecurity.org/">Center for Internet Security</a>
     - <a href="https://any.run/">Any Run</a>
+    - <a href="https://hashcat.net/wiki/doku.php?id=example_hashes">Hashcat</a>
 - **Community Links**
     - <a href="https://infosec-conferences.com/"> Cybersecurity Conferences</a>
   
