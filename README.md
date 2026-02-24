@@ -1,7 +1,14 @@
 # Hello, I'm Matthew
-<a href="https://www.linkedin.com/in/matthew-vongchanh/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tryhackme.com/p/emveexd"><img src="https://tryhackme-badges.s3.amazonaws.com/emveexd.png" alt="TryHackMe Profile Badge" /></a>
-<img src="https://tryhackme-badges.s3.amazonaws.com/emveexd.png" alt="Your Image Badge" /><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4865732" style='border:none;'></iframe>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matthew-vongchanh/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/emveexd">
+    <img src="https://img.shields.io/badge/-TryHackMe-212c42?&style=for-the-badge&logo=tryhackme&logoColor=cc0000" />
+  </a>
+</p><a href="https://www.linkedin.com/in/matthew-vongchanh/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 
 ## Objective:
