@@ -86,6 +86,8 @@
     - <a href="https://www.cisecurity.org/">Center for Internet Security</a>
     - <a href="https://any.run/">Any Run</a>
     - <a href="https://hashcat.net/wiki/doku.php?id=example_hashes">Hashcat Modes</a>
+    - <a href="https://gitlab.com/kalilinux/packages/hash-identifier/-/tree/kali/master">Hash Identifier</a>
+  
 - **Community Links**
     - <a href="https://infosec-conferences.com/"> Cybersecurity Conferences</a>
   
