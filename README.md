@@ -2,11 +2,9 @@
 <a href="https://www.linkedin.com/in/matthew-vongchanh/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img src="https://tryhackme-badges.s3.amazonaws.com/emveexd.png" alt="Your Image Badge" /><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4865732" style='border:none;'></iframe>
 
-While working in the semiconductor field, where I worked on-site for one of many customers, "Western Digital", I witnessed firsthand the initial impacts of the cyber attack on March 26th, 2023, had on the company's infrastructure. 
-
 
 ## Objective:
-“My journey in the semiconductor field has led me to develop a passion for cybersecurity, and I am eager to transition into this field, specifically aiming to join a Security Operations Center as a Cyber Risk Analyst.”
+"I bridge the gap between complex security infrastructure and the end-users who interact with it. With a degree in Kinesiology and 5 years of face-to-face retail experience, I’ve developed a unique ability to simplify technical jargon and drive user adoption. Combined with my experience in Windows/Linux administration and incident response, I offer a blend of technical hardening and frontline communication skills that ensure security policies actually work in the real world, not just on paper."
 
 ## Skills:
 
