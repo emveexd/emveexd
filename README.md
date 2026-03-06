@@ -17,7 +17,7 @@
 
 | Skill                                             | Associated Project         |
 |---------------------------------------------------|----------------------------|
-| Netowrk Forenscis                                 | <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>, <a href="https://github.com/emveexd/Tomcat-Takeover-Lab">Tomcat Takeover Lab</a>|
+| Network Forenscis                                 | <a href="https://github.com/emveexd/WebStrike-Lab">WebStrike Lab</a>, <a href="https://github.com/emveexd/Tomcat-Takeover-Lab">Tomcat Takeover Lab</a>|
 | Threat Intelligence                               | <a href="https://github.com/emveexd/OSKI-Lab">Oski Lab</a>|
 | Incident Response Planning and Execution          | <a href="https://github.com/emveexd/Gophish-Campaign-Simulation">Gophish Campaign Simulation</a> |
 | Network Traffic Monitoring and Attack Detection   | In Progress |
